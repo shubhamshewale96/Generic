@@ -23,4 +23,5 @@ public class MaximumValueTest {
         int value = max.findMax(6, 5, 9);
         Assert.assertEquals(9, value);
     }
+    
 }

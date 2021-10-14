@@ -1,6 +1,9 @@
 package com.bl.generic;
 
 public class MaximumValue {
+	/**
+     * Find Integer maximum value
+     */
 	public Integer findMax(Integer value1, Integer value2, Integer value3) {
 		Integer max = value1;
 		if (value2.compareTo(max) > 0) {
